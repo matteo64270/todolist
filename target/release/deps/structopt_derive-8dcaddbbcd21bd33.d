@@ -1,0 +1,10 @@
+C:\Users\matte\rust-learning-path\rusty-journal\target\release\deps\structopt_derive-8dcaddbbcd21bd33.dll: C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\lib.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\attrs.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\doc_comments.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\parse.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\spanned.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\ty.rs
+
+C:\Users\matte\rust-learning-path\rusty-journal\target\release\deps\structopt_derive-8dcaddbbcd21bd33.d: C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\lib.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\attrs.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\doc_comments.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\parse.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\spanned.rs C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\ty.rs
+
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\lib.rs:
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\attrs.rs:
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\doc_comments.rs:
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\parse.rs:
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\spanned.rs:
+C:\Users\matte\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.14\src\ty.rs:

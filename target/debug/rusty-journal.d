@@ -1,0 +1,1 @@
+C:\Users\matte\rust-learning-path\rusty-journal\target\debug\rusty-journal.exe: C:\Users\matte\rust-learning-path\rusty-journal\src\cli.rs C:\Users\matte\rust-learning-path\rusty-journal\src\main.rs C:\Users\matte\rust-learning-path\rusty-journal\src\tasks.rs
